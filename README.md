@@ -1,10 +1,10 @@
-# tweet_profanity
+# Tweet_profanity
 A Python Program to analyze the profanity of tweets.
 
 # Problem Statement
 Imagine there is a file full of Twitter tweets by various users and you are provided a set of words that indicates racial slurs. Write a program that can indicate the degree of profanity for each sentence in the file.
 
-#Assumptions
+# Assumptions
 - The assumed dataset which is used in this program has various columns, in which there is a column named tweets which consists of tweets by users
 - slurs is a list that consists of racial slurs
 - df[tweet] has been cleaned i.e. stopword removal, punctuation removal, link and numbers removal has been performed
